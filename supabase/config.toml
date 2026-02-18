@@ -1,0 +1,7 @@
+project_id = "dhcwhrxrzbgzhjutrqvv"
+
+[functions.improve-article]
+verify_jwt = false
+
+[functions.public-api]
+verify_jwt = false
